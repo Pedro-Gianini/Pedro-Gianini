@@ -1,5 +1,3 @@
-![Snake animation](https://github.com/seu-usuário-aqui/Pedro-Gianini/blob/output/github-contribution-grid-snake.svg)
-
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Pedro Gianini!
 
