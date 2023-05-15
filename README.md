@@ -5,7 +5,7 @@
 - 🌱 Atualmente estou aprendendo Python para Geoprocessamento e Javascript, HTML e CSS para Front-End;
 - 👯 Estou procurando colaborar em empresas que tenham os mesmos objetivos que os meus e me proporcione um ambiente com desafios para melhorar minhas técnicas e habilidades;
 - 🤔 Estou procurando ajuda com minha formação continuada na área de tecnologia;
-- 💬 Pergunte-me sobre : qual a diferença entre clima e tempo?
+- 💬 Pergunte-me sobre : As relações da Geografia e Tecnologia?
 - ⚡ Curiosidade: Estou no ultimo ano de formação em Geografia - ênfase em geoprocessamento e análise ambiental (Unesp: Rio Claro,SP)
 
 
