@@ -1,8 +1,8 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Pedro Gianini!
 
-- 🔭 Atualmente estou em busca de um trabalho voltado para área de Geoprocessamento ou Front-end;
-- 🌱 Atualmente estou aprendendo Python para Geoprocessamento e Javascript, HTML e CSS para Front-End;
+- 🔭 Atualmente estou em busca de um trabalho voltado para área de Back-end Geoprocessamento ou Front-end;
+- 🌱 Atualmente estou aprendendo Python para Geoprocessamento em Back-end e Javascript, HTML e CSS para Front-End;
 - 👯 Estou procurando colaborar em empresas que tenham os mesmos objetivos que os meus e me proporcione um ambiente com desafios para melhorar minhas técnicas e habilidades;
 - 🤔 Estou procurando ajuda com minha formação continuada na área de tecnologia;
 - 💬 Pergunte-me sobre : As relações da Geografia e Tecnologia?
